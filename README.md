@@ -1,0 +1,1 @@
+# react_Qr_Codd_Scanner_Generator
